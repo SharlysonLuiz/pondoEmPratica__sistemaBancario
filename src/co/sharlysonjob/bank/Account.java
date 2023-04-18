@@ -2,7 +2,7 @@ package co.sharlysonjob.bank;
 
 public class Account {
 
-    private static final int MAX_LENGTH = 12;
+    private static final int MAX_LENGTH = 13;
 
     private String ag;
     private String cc;
